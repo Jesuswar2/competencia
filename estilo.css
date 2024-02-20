@@ -27,3 +27,8 @@
 a[href$=".html"]{
     border: 2px dashed greenyellow;
 }
+
+.punto{
+    color: navy;
+    font-size: 75px;
+}
