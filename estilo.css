@@ -5,3 +5,17 @@
 .centrado{
     text-align: center;
 }
+
+.decision{
+    font-size: 30px;
+    background-color: cornflowerblue;
+    color: darkred;
+}
+
+.win{
+    box-shadow: 5px 5px 5px yellow;
+}
+
+#encabezado{
+    background-color: gold;
+}
