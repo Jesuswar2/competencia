@@ -17,7 +17,8 @@
 }
 
 #encabezado{
-    background-color: gold;
+    background-color: rgb(109, 205, 201);
+    color: indigo;
 }
 
 .extra[lang="es"]{
@@ -25,10 +26,25 @@
 }
 
 a[href$=".html"]{
-    border: 2px dashed greenyellow;
+    border: 2px dashed orange;
 }
 
 .punto{
     color: navy;
     font-size: 75px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+article > h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 3px dotted black;
+    color: midnightblue;
+}
+
+.cita{
+    background-color: mediumturquoise;
 }
