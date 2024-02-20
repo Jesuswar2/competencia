@@ -19,3 +19,11 @@
 #encabezado{
     background-color: gold;
 }
+
+.extra[lang="es"]{
+    color: blueviolet;
+}
+
+a[href$=".html"]{
+    border: 2px dashed greenyellow;
+}
